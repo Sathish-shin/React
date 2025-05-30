@@ -3,6 +3,9 @@
 // heading.innerHTML = "Hello  from React"
 // root.appendChild(heading)
 
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const parent = React.createElement(
   "div",
   { id: "parent" },

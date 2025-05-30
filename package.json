@@ -1,0 +1,27 @@
+{
+  "name": "react-2",
+  "version": "1.0.0",
+  "description": "This is React basics ",
+  "master": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sathish-shin/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "shin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sathish-shin/React/issues"
+  },
+  "homepage": "https://github.com/Sathish-shin/React#readme",
+  "dependencies": {
+    "parcel": "^2.15.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
